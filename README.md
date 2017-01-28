@@ -18,9 +18,11 @@ One additional module, [Nw5], serves as a final project.<br>
 </ul><br>
 <b>Networks 3/4 (Information Spreading)</b><br>
 <ul> 
-<li>[Nw3&4]InformationSpreadingwalkthrough(.pdf, .docx, .pages)
+<li>[Nw3/4]InformationSpreadingwalkthrough(.pdf, .docx)
 <li>img (folder; .png, .jpg)
 </ul><br>
 <b>Networks 5 (Final Project)</b><br>
 <ul> 
-<li>[Nw5]FinalProjectSpecifications(.pdf, .docx, .pages)
+<li>[Nw5]FinalProjectSpecifications(.pdf, .docx, .pages) <br>
+# Known Issues
+[Nw3/4] does not have a .pages file format available for the walkthrough at this time.
